@@ -1,1 +1,1 @@
-# Ethiopian-Calendar
+# Ethiopian Calendar
